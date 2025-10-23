@@ -4,3 +4,4 @@ gunicorn
 assemblyai
 python-dotenv
 pydantic
+python-multipart
